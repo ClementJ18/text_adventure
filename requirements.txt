@@ -1,2 +1,2 @@
 # setup.py: 3
-nltk == 3.4.5
+nltk == 3.9
